@@ -1,0 +1,43 @@
+.banner-lol{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    height: 300px;
+    border: 3px solid #000000a9;
+    border-radius: 5px;
+}
+
+.formulario{
+    margin: auto;
+    margin-top: 7px;
+    padding-top: 1px;
+    width: 50%;
+    border: 3px solid #000a1ca9;
+    border-radius: 5px;
+    background-color: #3660b4a9;
+}
+
+.formulario h3{
+    margin-left: 50px;
+    font-family: Lucida Console;
+    font-size: x-large;
+}
+
+.formulario input{
+    width: 500px;
+    height: 50px;
+    font-size: x-large;
+    margin: 12px 20px;
+    display: block;
+    border-radius: 5px;
+    border: 3px solid #323e55a9;
+}
+
+.formulario button{
+    border-radius: 5px;
+    border: 3px solid #323e55a9;
+    margin: 3px 20px;
+    height: 50px;
+    font-family: lucida console;
+    background-color: #feffffa9;
+}
